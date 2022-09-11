@@ -47,8 +47,8 @@ Os contratos são gerados pela Cryptum quando conectamos o frontend neles
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
   
   
-  Cryptum SDK
-  Firebase Functions
+  - Cryptum SDK
+  - Firebase Functions
 
 
 ## :link: Como contribuir 
