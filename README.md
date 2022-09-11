@@ -42,11 +42,14 @@ https://mumbai.polygonscan.com/address/0x21E90dbF8d5105B99A9c21E7EFFa16a0Cce01dE
 
 ## :rocket: Tecnologias Utilizadas 
 
+Os contratos são gerados pela Cryptum quando conectamos o frontend neles
+  
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
+  
   
   Cryptum SDK
   Firebase Functions
-  Os contratos são gerados pela Cryptum quando conectamos o frontend neles
+
 
 ## :link: Como contribuir 
 
